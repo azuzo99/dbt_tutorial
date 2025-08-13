@@ -1,5 +1,5 @@
-# dbt_tutorial
-**This is a DBT Comprehensive tutorial**
+# DBT Tutorial
+**This is a DBT Comprehensive Guide**
 
-[DBT Fundamentals](./dbt_fundamentals)
-    * [Introduction to DBT](./dbt_fundamentals/01_Introduction_to_DBT.md)
+1. [DBT Fundamentals](./dbt_fundamentals)
+   1. [DBT Overview](./dbt_fundamentals/dbt_overview.md)
